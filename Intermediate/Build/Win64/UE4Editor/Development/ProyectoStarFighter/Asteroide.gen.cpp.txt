@@ -1,0 +1,5 @@
+C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Development\ProyectoStarFighter\Definitions.ProyectoStarFighter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Source\ProyectoStarFighter/Asteroide.h
+C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Inc\ProyectoStarFighter\Asteroide.generated.h

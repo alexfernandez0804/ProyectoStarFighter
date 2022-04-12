@@ -1,0 +1,3 @@
+C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Development\ProyectoStarFighter\Definitions.ProyectoStarFighter.h
+C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Source\ProyectoStarFighter\Nave.h
+C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Inc\ProyectoStarFighter\Nave.generated.h

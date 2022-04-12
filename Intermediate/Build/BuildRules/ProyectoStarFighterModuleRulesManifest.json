@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\ASUS\\Documents\\Unreal Projects\\ProyectoStarFighter\\Source\\ProyectoStarFighter\\ProyectoStarFighter.Build.cs",
+		"C:\\Users\\ASUS\\Documents\\Unreal Projects\\ProyectoStarFighter\\Source\\ProyectoStarFighter.Target.cs",
+		"C:\\Users\\ASUS\\Documents\\Unreal Projects\\ProyectoStarFighter\\Source\\ProyectoStarFighterEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ProyectoStarFighter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\ProyectoStarFighterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Development\ProyectoStarFighter\Asteroide.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Development\ProyectoStarFighter\Bala.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Development\ProyectoStarFighter\Enemigo.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Development\ProyectoStarFighter\Nave.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Development\ProyectoStarFighter\Potenciador.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Development\ProyectoStarFighter\Proyectil.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Development\ProyectoStarFighter\ProyectoStarFighter.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Development\ProyectoStarFighter\ProyectoStarFighterGameModeBase.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Development\ProyectoStarFighter\Asteroide.gen.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Development\ProyectoStarFighter\Bala.gen.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Development\ProyectoStarFighter\Enemigo.gen.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Development\ProyectoStarFighter\Nave.gen.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Development\ProyectoStarFighter\Potenciador.gen.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Development\ProyectoStarFighter\Proyectil.gen.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Development\ProyectoStarFighter\ProyectoStarFighter.init.gen.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Development\ProyectoStarFighter\ProyectoStarFighterGameModeBase.gen.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Development\ProyectoStarFighter\Default.rc2.res"
+/OUT:"C:\Users\ASUS\Documents\Unreal Projects\ProyectoStarFighter\Intermediate\Build\Win64\UE4Editor\Development\ProyectoStarFighter\UE4Editor-ProyectoStarFighter.lib"
